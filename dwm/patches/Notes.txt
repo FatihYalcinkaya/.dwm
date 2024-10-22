@@ -1,0 +1,5 @@
+Bu patchler uygulanmış patchlerdir. Uygulama sırası şu şekildedir.
+1- full gaps
+2- autostart
+3- systray ( oto patch hataları düzeltilip uygulandı )
+4- always center
