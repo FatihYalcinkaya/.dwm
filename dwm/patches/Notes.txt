@@ -3,4 +3,4 @@ Bu patchler uygulanmış patchlerdir. Uygulama sırası şu şekildedir.
 2- autostart
 3- systray ( oto patch hataları düzeltilip uygulandı )
 4- always center
-5- actual fullscreen
+5- fullscreen (hatalar düzeltildi)
