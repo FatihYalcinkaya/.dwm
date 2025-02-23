@@ -10,5 +10,4 @@ blueman &
 nm-applet &
 blueman-applet &
 nitrogen --restore &
-xset s off && xset -dpms # ekranın 10 dk sonra kapanmasını engeller.
-libinput-gestures
+libinput-gestures &
